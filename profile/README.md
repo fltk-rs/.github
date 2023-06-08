@@ -5,6 +5,8 @@ This organization holds the the repos of [fltk-rs](https://github.com/fltk-rs/fl
 - [fl2rust](https://github.com/fltk-rs/fl2rust): This enables using FLUID, FLTK's RAD design tool with your fltk-rs apps. It translates fluid files to Rust.
 - [fltk-table](https://github.com/fltk-rs/fltk-table): Provides a smart table widget.
 - [fltk-evented](https://github.com/fltk-rs/fltk-evented): Provides a listener widget allowing immediate-mode style trigger handling (instead of callbacks) in both sync and async code.
+- [fltk-accesskit](https://github.com/fltk-rs/fltk-accesskit): Provides screen reader support and accessibility via accesskit to fltk guis.
+- [fltk-decl](https://github.com/fltk-rs/fltk-decl): Provides a declarative way of describing your gui.
 - [fltk-calendar](https://github.com/fltk-rs/fltk-calendar): Provides a calendar widget.
 - [flemish](https://github.com/fltk-rs/flemish): Provides an Elm-like architecture for fltk apps.
 - [fltk-grid](https://github.com/fltk-rs/fltk-grid): Provides a grid widget to your application.
